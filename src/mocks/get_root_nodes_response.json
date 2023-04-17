@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "221",
+        "situsTreatment.identifier": "14",
+        "situsTreatment.prefLabel": "Singapore Section 21"
+    },
+    {
+        "identifier": "200",
+        "situsTreatment.identifier": "1",
+        "situsTreatment.prefLabel": "TPP/Goods"
+    },
+    {
+        "identifier": "140000",
+        "situsTreatment.identifier": "19",
+        "situsTreatment.prefLabel": "Default Service"
+    },
+    {
+        "identifier": "70000",
+        "situsTreatment.identifier": "3",
+        "situsTreatment.prefLabel": "Service Where Performed"
+    },
+    {
+        "identifier": "74000",
+        "situsTreatment.identifier": "5",
+        "situsTreatment.prefLabel": "Use and Enjoyment Service"
+    },
+    {
+        "identifier": "82000",
+        "situsTreatment.identifier": "9",
+        "situsTreatment.prefLabel": "Destination"
+    },
+    {
+        "identifier": "76000",
+        "situsTreatment.identifier": "6",
+        "situsTreatment.prefLabel": "Basic Service"
+    },
+    {
+        "identifier": "78000",
+        "situsTreatment.identifier": "12",
+        "situsTreatment.prefLabel": "Import Reverse Charge Purchase"
+    },
+    {
+        "identifier": "81000",
+        "situsTreatment.identifier": "15",
+        "situsTreatment.prefLabel": "Outside the Scope"
+    },
+    {
+        "identifier": "84000",
+        "situsTreatment.identifier": "10",
+        "situsTreatment.prefLabel": "Physical Origin"
+    },
+    {
+        "identifier": "86000",
+        "situsTreatment.identifier": "8",
+        "situsTreatment.prefLabel": "Administrative Origin"
+    },
+    {
+        "identifier": "72000",
+        "situsTreatment.identifier": "4",
+        "situsTreatment.prefLabel": "Service Where Received"
+    },
+    {
+        "identifier": "93000",
+        "situsTreatment.identifier": "16",
+        "situsTreatment.prefLabel": "Intra EU Reverse Charge"
+    },
+    {
+        "identifier": "94000",
+        "situsTreatment.identifier": "2",
+        "situsTreatment.prefLabel": "Services - U.S. & Canada"
+    },
+    {
+        "identifier": "77000",
+        "situsTreatment.identifier": "18",
+        "situsTreatment.prefLabel": "ESS-BTF"
+    },
+    {
+        "identifier": "80000",
+        "situsTreatment.identifier": "11",
+        "situsTreatment.prefLabel": "Domestic Reverse Charge"
+    },
+    {
+        "identifier": "75000",
+        "situsTreatment.identifier": "17",
+        "situsTreatment.prefLabel": "Bill To/From Service"
+    },
+    {
+        "identifier": "88000",
+        "situsTreatment.identifier": "7",
+        "situsTreatment.prefLabel": "Administrative Destination"
+    },
+    {
+        "identifier": "92000",
+        "situsTreatment.identifier": "13",
+        "situsTreatment.prefLabel": "Electronically Supplied Services"
+    }
+]

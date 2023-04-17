@@ -1,0 +1,43 @@
+[
+    {
+        "falseChildNode": [
+            {
+                "identifier": "110",
+                "condition": null,
+                "conclusion": {
+                    "identifier": "14001"
+                }
+            },
+            {
+                "identifier": "500",
+                "condition": {
+                    "identifier": "2002"
+                },
+                "conclusion": null
+            }
+        ],
+        "trueChildNode": [
+            {
+                "identifier": "100",
+                "condition": null,
+                "conclusion": {
+                    "identifier": "14001"
+                }
+            },
+            {
+                "identifier": "250",
+                "condition": {
+                    "identifier": "310086"
+                },
+                "conclusion": null
+            },
+            {
+                "identifier": "300",
+                "condition": {
+                    "identifier": "6002"
+                },
+                "conclusion": null
+            }
+        ]
+    }
+]

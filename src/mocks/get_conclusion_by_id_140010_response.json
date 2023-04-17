@@ -1,0 +1,16 @@
+{
+    "identifier": "140010",
+    "title": null,
+    "description": null,
+    "type": {
+        "identifier": "3",
+        "prefLabel": "Tax Type"
+    },
+    "valid": null,
+    "created": null,
+    "modified": null,
+    "vertexRelease": {
+        "identifier": "7",
+        "prefLabel": "9.0"
+    }
+}

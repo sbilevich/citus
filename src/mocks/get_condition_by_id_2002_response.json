@@ -1,0 +1,13 @@
+{
+    "identifier": "2002",
+    "title": null,
+    "description": "Lease?",
+    "type": {
+        "identifier": "2",
+        "prefLabel": "Transaction Type"
+    },
+    "valid": null,
+    "created": null,
+    "modified": null,
+    "vertexRelease": null
+}
